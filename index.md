@@ -1,34 +1,23 @@
 ## Portfolio
 
+Work in Progress
 ---
 
-### Category Name 1 
+### Academic Research
 
-[Project 1 Title](/sample_page)
+[MicroBooNE Experiment](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Curriculum Vitae(/pdf/cv_WouterVanDePontseele.pdf)
+Full resume.
 
 ---
 
-### Category Name 2
+### Interests \& Outreach
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a mailto="woutervdp@g.harvard.edu">woutervdp@g.harvard.edu</a></p>
