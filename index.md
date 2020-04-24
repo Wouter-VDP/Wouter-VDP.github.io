@@ -9,12 +9,12 @@ Work in Progress
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Curriculum Vitae(/pdf/cv_WouterVanDePontseele.pdf)
+[Curriculum Vitae](/pdf/cv_WouterVanDePontseele.pdf)
 Full resume.
 
 ---
 
-### Interests \& Outreach
+### Interests & Outreach
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
