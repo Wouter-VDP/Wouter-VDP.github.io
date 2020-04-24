@@ -6,7 +6,7 @@ Work in Progress
 ### Academic Research
 
 [MicroBooNE Experiment](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/nuevent1.png?raw=true"/>
 
 ---
 [Curriculum Vitae](/pdf/cv_WouterVanDePontseele.pdf)
